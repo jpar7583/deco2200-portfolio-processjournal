@@ -24,6 +24,15 @@ body{
 /*Cards*/
 .card{border: none; background-color: transparent;}
 
+/*carousel button control*/
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23f00' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23f00' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
 /*Navbar Rules*/
 img.nav-bar-img{
 	margin-right: 10px;
@@ -62,18 +71,6 @@ img{
 	border: 0px solid #000000;
 }
 
-.survey {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-.survey1::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 /*Font Override Rules*/
 h1, h2, h3, h4, h5, h6 {
 	font-family:'Montserrat', Sans-Serif;
@@ -100,6 +97,11 @@ h1, h2, h3, h4, h5, h6 {
 		font-size: medium;
 	}
 
+	h5{
+		text-transform: uppercase;
+		color: #a49727;
+		font-size: 22px;
+	}
 	.content p{
 		font-size:14px;
 		line-height: 21px;
