@@ -1,0 +1,14 @@
+Changing carousel control colours:
+https://stackoverflow.com/questions/49391266/change-bootstrap-4-carousel-control-colors
+
+Header icon picture:
+https://unsplash.com/photos/NjT4O7WYmwk
+
+Icon images:
+https://www.flaticon.com/
+
+Grid template:
+https://templated.co/spatial
+
+github:
+https://github.com/jpar7583/deco2200-portfolio-processjournal
