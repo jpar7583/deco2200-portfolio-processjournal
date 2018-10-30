@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 
 	h5{
 		text-transform: uppercase;
-		color: #ee2050;
+		color: #a49727;
 		font-size: 22px;
 	}
 	.content p{
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 p, li, span, a {
-    font-family: 'Karla', sans-serif;
+    font-family: 'Karla', Sans-Serif;
     font-weight: 300;
 }
 
