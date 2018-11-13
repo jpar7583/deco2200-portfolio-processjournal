@@ -14,7 +14,7 @@ body{
   padding-bottom: 100px;
   width:100%;
   min-height: 100vh;
-  background: url('../img/common/homepage_bg.jpg') no-repeat center center fixed;
+  background: url('../img/common/bg.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -579,7 +579,7 @@ span.img-caption{
   justify-content: center;
 }
 
-.portfolio-section .portfolio-text > .probootstrap-inner {
+.portfolio-section .portfolio-text > .portfolio-inner {
   -ms-flex-item-align: center;
   align-self: center;
   max-width: 500px;
@@ -646,7 +646,7 @@ span.img-caption{
 
 /* Button */
 
-.btn-primary  {
+.btn-primary {
     background-color: #ee2050; 
     border: none;
     color: white;
@@ -657,7 +657,7 @@ span.img-caption{
     font-size: 16px;
 }
 
-.btn-primary:hover, .btn-primary:active  {
+.btn-primary:hover {
     background-color: #8c0c2e; 
     border: none;
     color: white;
