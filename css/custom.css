@@ -545,6 +545,7 @@ span.img-caption{
 }
 
 .portfolio-section .portfolio-image, .portfolio-section .portfolio-text {
+  justify-content: center;
   height: 50vh;
   width: 50%;
   -webkit-transition: .7s all ease;
@@ -643,6 +644,7 @@ span.img-caption{
     width: 100% !important;
   }
 }
+
 
 /* Button */
 

@@ -10,5 +10,8 @@ https://www.flaticon.com/
 Grid template:
 https://templated.co/spatial
 
+Portfolio template:
+https://uicookies.com/demo/#connect
+
 github:
 https://github.com/jpar7583/deco2200-portfolio-processjournal
