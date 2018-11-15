@@ -13,5 +13,8 @@ https://templated.co/spatial
 Portfolio template:
 https://uicookies.com/demo/#connect
 
+Animation coding guide:
+https://www.the-art-of-web.com/css/css-animation/
+
 github:
 https://github.com/jpar7583/deco2200-portfolio-processjournal

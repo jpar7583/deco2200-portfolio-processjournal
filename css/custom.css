@@ -4,7 +4,11 @@ Modify this file to your hearts content and make your website look awesome!*/
 
 body{
 	background-color: #ebebeb;
-	padding-top: 80px;
+	margin-top: 80px;
+}
+
+.no-margin-top {
+margin-top: unset !important;
 }
 
 /*Home*/
@@ -262,9 +266,9 @@ span.img-caption{
 /*Footer*/
 .footer{
 	margin-top: 50px;
-	padding-top: 30px;
+	padding-top: 20px;
 	width: 100%;
-	min-height: 100px;
+	min-height: 50px;
 	background-color: #989898;
 	border-top: 1px solid #727272;
 }
@@ -668,4 +672,12 @@ span.img-caption{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+}
+
+/*center*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
